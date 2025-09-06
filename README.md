@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/Sagarshivalingappaathani/DishDispatch-MERN-foodDelivary-Project5.git
+   git clone https://github.com/Naikgowtham/Dish_dispatch.git
    ```
 2. **Change Directory:**
 
